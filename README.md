@@ -1,5 +1,8 @@
 # ts-vue
 
+https://github.com/Microsoft/TypeScript-Vue-Starter
+
+
 ````
 * create repo in github
 
@@ -10,6 +13,5 @@ git push -u origin master
 git pull 
 git commit -a -m "..."
 git push
-
 
 ````
