@@ -1,8 +1,9 @@
 # ts-vue
 
-#### [ ] create repo in github
-
 ````
+
+
+* create repo in github
 
 git remote add origin git@github.com/renaa-oxx/___.git
 git remote -v
