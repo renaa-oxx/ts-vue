@@ -1,6 +1,6 @@
 # ts-vue
 
-#### create repo in github
+#### [ ] create repo in github
 
 ````
 
