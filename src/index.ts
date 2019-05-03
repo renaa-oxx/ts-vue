@@ -7,7 +7,7 @@ let v = new Vue({
     el: "#app",
     template: `
     <div>
-        Name: <input v-model="name" type="text">
+        Namqe: <input v-model="name" type="text">
         <hello-component :name="name" :initialEnthusiasm="5" />
     </div>
     `,
